@@ -1,0 +1,189 @@
+.elementor-154
+  .elementor-element.elementor-element-d95bf95:not(
+    .elementor-motion-effects-element-type-background
+  ),
+.elementor-154
+  .elementor-element.elementor-element-d95bf95
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background-color: var(--e-global-color-primary);
+}
+.elementor-154
+  .elementor-element.elementor-element-d95bf95
+  > .elementor-background-overlay {
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.2;
+  transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-154 .elementor-element.elementor-element-d95bf95 {
+  transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+  padding: 60px 0px 60px 0px;
+}
+.elementor-154 .elementor-element.elementor-element-60e5165 {
+  text-align: center;
+}
+.elementor-154
+  .elementor-element.elementor-element-60e5165
+  .elementor-heading-title {
+  color: #ffffff;
+  font-family: "SFU FUTURA", Sans-serif;
+  font-size: 25px;
+  font-weight: 600;
+}
+.elementor-154 .elementor-element.elementor-element-a069b27 {
+  font-family: var(--e-global-typography-text-font-family), Sans-serif;
+  font-weight: var(--e-global-typography-text-font-weight);
+  color: #ffffff;
+}
+.elementor-154 .elementor-element.elementor-element-a069b27 a {
+  color: #ffffff;
+}
+.elementor-154 .elementor-element.elementor-element-4516bd3 {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.elementor-154
+  .elementor-element.elementor-element-9b67fce
+  .elementor-posts-container
+  .elementor-post__thumbnail {
+  padding-bottom: calc(0.66 * 100%);
+}
+.elementor-154 .elementor-element.elementor-element-9b67fce:after {
+  content: "0.66";
+}
+.elementor-154
+  .elementor-element.elementor-element-9b67fce
+  .elementor-post__thumbnail__link {
+  width: 100%;
+}
+.elementor-154 .elementor-element.elementor-element-9b67fce {
+  --grid-column-gap: 30px;
+  --grid-row-gap: 35px;
+}
+.elementor-154
+  .elementor-element.elementor-element-9b67fce
+  .elementor-post__thumbnail {
+  border-radius: 10px 10px 10px 10px;
+}
+.elementor-154
+  .elementor-element.elementor-element-9b67fce.elementor-posts--thumbnail-left
+  .elementor-post__thumbnail__link {
+  margin-right: 15px;
+}
+.elementor-154
+  .elementor-element.elementor-element-9b67fce.elementor-posts--thumbnail-right
+  .elementor-post__thumbnail__link {
+  margin-left: 15px;
+}
+.elementor-154
+  .elementor-element.elementor-element-9b67fce.elementor-posts--thumbnail-top
+  .elementor-post__thumbnail__link {
+  margin-bottom: 15px;
+}
+.elementor-154
+  .elementor-element.elementor-element-9b67fce
+  .elementor-post__title,
+.elementor-154
+  .elementor-element.elementor-element-9b67fce
+  .elementor-post__title
+  a {
+  color: var(--e-global-color-secondary);
+  font-family: "Helvetica", Sans-serif;
+  font-weight: 600;
+}
+.elementor-154
+  .elementor-element.elementor-element-9b67fce
+  .elementor-post__title {
+  margin-bottom: 10px;
+}
+.elementor-154
+  .elementor-element.elementor-element-9b67fce
+  .elementor-pagination {
+  text-align: center;
+}
+body:not(.rtl)
+  .elementor-154
+  .elementor-element.elementor-element-9b67fce
+  .elementor-pagination
+  .page-numbers:not(:first-child) {
+  margin-left: calc(10px / 2);
+}
+body:not(.rtl)
+  .elementor-154
+  .elementor-element.elementor-element-9b67fce
+  .elementor-pagination
+  .page-numbers:not(:last-child) {
+  margin-right: calc(10px / 2);
+}
+body.rtl
+  .elementor-154
+  .elementor-element.elementor-element-9b67fce
+  .elementor-pagination
+  .page-numbers:not(:first-child) {
+  margin-right: calc(10px / 2);
+}
+body.rtl
+  .elementor-154
+  .elementor-element.elementor-element-9b67fce
+  .elementor-pagination
+  .page-numbers:not(:last-child) {
+  margin-left: calc(10px / 2);
+}
+@media (max-width: 767px) {
+  .elementor-154
+    .elementor-element.elementor-element-9b67fce
+    .elementor-posts-container
+    .elementor-post__thumbnail {
+    padding-bottom: calc(0.5 * 100%);
+  }
+  .elementor-154 .elementor-element.elementor-element-9b67fce:after {
+    content: "0.5";
+  }
+  .elementor-154
+    .elementor-element.elementor-element-9b67fce
+    .elementor-post__thumbnail__link {
+    width: 100%;
+  }
+}
+@media (min-width: 1025px) {
+  .elementor-154
+    .elementor-element.elementor-element-d95bf95
+    > .elementor-background-overlay {
+    background-attachment: scroll;
+  }
+} /* Start Custom Fonts CSS */
+@font-face {
+  font-family: "SFU FUTURA";
+  font-style: normal;
+  font-weight: normal;
+  font-display: auto;
+  src: url("https://vyphotphet100.github.io/website-anh-hai/wp-content/uploads/2023/08/SFUFuturaBook.ttf")
+    format("truetype");
+}
+@font-face {
+  font-family: "SFU FUTURA";
+  font-style: normal;
+  font-weight: bold;
+  font-display: auto;
+  src: url("https://vyphotphet100.github.io/website-anh-hai/wp-content/uploads/2023/08/SFUFuturaBold.ttf")
+    format("truetype");
+}
+@font-face {
+  font-family: "SFU FUTURA";
+  font-style: normal;
+  font-weight: 500;
+  font-display: auto;
+  src: url("https://vyphotphet100.github.io/website-anh-hai/wp-content/uploads/2023/08/SFUFuturaHeavy.ttf")
+    format("truetype");
+}
+@font-face {
+  font-family: "SFU FUTURA";
+  font-style: normal;
+  font-weight: 800;
+  font-display: auto;
+  src: url("https://vyphotphet100.github.io/website-anh-hai/wp-content/uploads/2023/08/SFUFuturaExtraBold.ttf")
+    format("truetype");
+}
+/* End Custom Fonts CSS */
